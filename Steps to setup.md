@@ -7,9 +7,9 @@ Steps to run the application
 4. Run the file by 'java Banking' 
 5. Select option from 1 to 5
 6. Every action requires a code to navigate to right banking account
-7. Eg Run code-. Select option 1
-   Enter accoutn code->ANI
-   Enter name-> Aniket
+7. Eg Run code-. Select option 1->
+   Enter account code->'ANI'
+   Enter name->'Aniket'
    A zero balance account will be created
 8. You can create multiple accounts and perform various transactions 
 9. Code internally uses 3 arraylist to store code, name and balance of accounts. 
